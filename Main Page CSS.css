@@ -1,0 +1,50 @@
+
+/* CSS Document */
+body{
+	background-color:#232C31;
+}
+p{
+	font-family: Courier, monospace, serif;
+	text-align: center;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	color: #FFFFFF;
+	border: #134E63 2px solid;
+	height: 60px;
+	width: 400px;
+	background-color:#398C7E;
+	font-size:43px;
+	border-radius: 40px;
+	margin: auto;
+}
+.button1{
+	text-align: center;
+	font-family: Times, serif;
+	border: #000E61 10px solid;
+	background-color: #4CA2FD;
+	margin-left: 150px;
+	font-size:30px;
+	color:#FFFFFF;
+	border-radius: 10px;
+	height:30px;
+	width:200px;
+}
+.button2{
+	font-family: Times, serif;
+	text-align: center;
+	border: #000E61 10px solid;
+	background-color: #4CA2FD;
+	margin-right: 150px;
+	font-size:30px;
+	color:#FFFFFF;
+	border-radius: 10px;
+	height:30px;
+	width:200px;
+}
+	
+	
+	
+	
+	
+	
+
