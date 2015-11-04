@@ -8,9 +8,10 @@ th, td {
 }
 .Main
 {
-	font:Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+	
 	color: #B55500;
 	font-size:24px;
+	font-family:Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
 }
 Body{
 background-color:#F5F5DC;
