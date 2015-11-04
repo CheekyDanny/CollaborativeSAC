@@ -1,8 +1,0 @@
-\\svTY01\dclarke16$\C#\Shoe Thing V.2\Shoe Thing V.2\bin\Debug\Shoe Thing V.2.exe
-\\svTY01\dclarke16$\C#\Shoe Thing V.2\Shoe Thing V.2\bin\Debug\Shoe Thing V.2.pdb
-\\svTY01\dclarke16$\C#\Shoe Thing V.2\Shoe Thing V.2\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
-\\svTY01\dclarke16$\C#\Shoe Thing V.2\Shoe Thing V.2\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
-\\svTY01\dclarke16$\C#\Shoe Thing V.2\Shoe Thing V.2\obj\x86\Debug\Shoe Thing V.2.csproj.GenerateResource.Cache
-\\svTY01\dclarke16$\C#\Shoe Thing V.2\Shoe Thing V.2\obj\x86\Debug\Shoe Thing V.2.exe
-\\svTY01\dclarke16$\C#\Shoe Thing V.2\Shoe Thing V.2\obj\x86\Debug\Shoe Thing V.2.pdb
-\\svTY01\dclarke16$\C#\Shoe Thing V.2\Shoe Thing V.2\obj\x86\Debug\Shoe Thing V.2.csprojResolveAssemblyReference.cache
