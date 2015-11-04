@@ -6,11 +6,17 @@ table, th, td {
 th, td {
     padding: 5px;
 }
-Main
+.Main
 {
 	font:Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+	color: #B55500;
 }
 Body{
-background-color:#FFB243;
+background-color:#F5F5DC;
+}
+.table
+{
+	border-color:#744100;
+	bor
 }
 
