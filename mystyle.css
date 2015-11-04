@@ -16,7 +16,15 @@ background-color:#F5F5DC;
 }
 .table
 {
-	border-color:#744100;
-	bor
+	border: 3px #935700;
+	font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	font-size:30px;	
 }
-
+.table2
+{
+	border: 2px #A77700;
+}
+.table3
+{
+	border: 2px #291400;
+}
